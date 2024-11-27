@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "A rectangular plate is 3.4 m wide and 5 m deep lies in a water making an angle of 31° with the free water surface. If h is 1.7 m, Find the position of the total pressure force. Refer figure in the simulator.",
+        "qid": 1,
+        "option_a": "3.17 m",
+        "option_b": "3.12 m",
+        "option_c": "2.98 m",
+        "option_d": "3.23 m",
+        "correct_option": "a"
+    },
+    {
+        "question": "A rectangular plate is 3.2 m wide and 4 m deep lies in a water making an angle of 43° with the free water surface. If h is 1.8 m, Find the position of the total pressure force.",
+        "qid": 2,
+        "option_a": "3.12 m",
+        "option_b": "3.21 m",
+        "option_c": "3.43 m",
+        "option_d": "3.36 m",
+        "correct_option": "d"
+    }
+]
